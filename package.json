@@ -1,5 +1,5 @@
 {
-  "name": "cypressautomation",
+  "name": "automation",
   "version": "1.0.0",
   "description": "Cypress Automation Course",
   "main": "index.js",
@@ -10,5 +10,14 @@
   "license": "ISC",
   "dependencies": {
     "cypress": "^4.5.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donatojgil/CypressAutomationCourse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/donatojgil/CypressAutomationCourse/issues"
+  },
+  "homepage": "https://github.com/donatojgil/CypressAutomationCourse#readme"
 }
